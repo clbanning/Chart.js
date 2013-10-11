@@ -2,8 +2,7 @@ Chart.js
 =======
 *Simple HTML5 Charts using the canvas element* [chartjs.org](http://www.chartjs.org)
 
-2013.10.10: clbanning - patched to restore original <canvas> context.
-
+2013.10.10: clbanning - patched to restore original <code>canvas</code > context.  
 Quick FYI
 -------
 I'm currently working on a big refactor of the library into a more object oriented structure. 
